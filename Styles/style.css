@@ -1,0 +1,118 @@
+h1{
+    color:rgb(216, 233, 243);
+    position: relative;  
+    top: 10px; left: 10px; 
+    text-align: center;
+    text-decoration: double;
+    padding: 10px 10px;
+    
+}
+
+h3{
+
+    position: relative;  
+    text-align: center;
+    color: rgb(216, 233, 243);
+    position: relative;
+    padding: 0px 10px 0px 10px;
+    
+}
+
+.Yo{
+    position: relative;
+    top:-5px; left: 350px;
+    width: 200px;
+    border-radius: 50px;
+
+}
+
+
+body{
+        border-radius: 20px;
+        box-shadow: 5px;
+        margin: auto;
+        background: url(../assets/images/fondo3.jpg);
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: cover; 
+
+     }
+
+main{
+        width: 900px;
+        border: 5px solid rgb(18, 28, 119);
+        border-radius: 10px;
+        margin: 100px 500px 500px 500px;
+        box-shadow: 10px;
+        background-color:rgba(14, 122, 223, 0.582); 
+        
+     }
+ 
+     a{
+        border-radius: 5px;
+        width: 5px;
+     }
+    
+section{
+        margin: 20px 0 0 0;
+        
+
+}
+
+footer{
+    margin-left: 20px;
+    color: rgb(216, 233, 243);
+    position: relative;
+}
+
+.button{
+    display:0px;
+    border-radius: 50px;
+    border: 2px solid rgb(37, 39, 197);
+    padding: 10px 10px;
+    background-color: rgb(167, 210, 235);
+    margin: 5px;
+    justify-content:center;
+    text-align: center;    
+    text-transform: uppercase;    
+}
+
+
+img{
+    width: 200%;
+    border-radius: 50px;
+    
+}
+
+
+.family{ 
+    position: relative;
+    left: 250px;
+    border-radius: 50px;
+    padding: 20px 10px 10px 20px;
+    display: flex;
+    max-width: 20%;
+
+    }
+
+
+.clear{
+    clear: both;
+}
+
+.hobbie{
+    position: relative;
+    left: 250px;
+    border-radius: 50px;
+    padding: 20px 10px 10px 20px;
+    display: flex;
+    max-width: 20%;
+    
+
+}
+
+
+    
+
+    
+    
